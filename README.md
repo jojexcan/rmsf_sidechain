@@ -6,7 +6,7 @@ This repository contains a memory-efficient Tcl script to calculate the **Root M
 
 Analyzing the Root Mean Square Fluctuation (RMSF) of sidechain atoms provides valuable insights into the local flexibility and dynamic behavior of individual residues throughout a molecular dynamics simulation. Unlike backbone RMSF, sidechain fluctuations are often more sensitive to functional motions, conformational variability, and ligand interactions. This makes sidechain RMSF particularly useful for identifying flexible loops, surface regions, or dynamic domains, and for probing the mobility of residues within active sites or binding pockets.
 
-By assessing sidechain RMSF, researchers can evaluate the structural stability of a protein under different conditions (e.g., mutations, ligand binding, or environmental changes), detect allosteric effects that propagate through the structure, and validate the consistency of simulations with experimental data. It is also a valuable tool for guiding rational mutagenesis to improve stability or function, comparing homologous proteins or variants, and identifying cryptic pockets that may serve as novel drug targets.
+By assessing sidechain RMSF, you can evaluate the structural stability of a protein under different conditions (e.g., mutations, ligand binding, or environmental changes), detect allosteric effects that propagate through the structure, and validate the consistency of simulations with experimental data. It is also a valuable tool for guiding rational mutagenesis to improve stability or function, comparing homologous proteins or variants, and identifying cryptic pockets that may serve as novel drug targets.
 
 ---
 
