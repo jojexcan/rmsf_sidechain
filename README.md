@@ -13,7 +13,7 @@ By assessing sidechain RMSF, you can evaluate the structural stability of a prot
 ## How does this script work?
 
 - Loads your **structure** (e.g., `.psf`) and **trajectory** (e.g., `.dcd`) in VMD — though you can modify it for any VMD-compatible format.
-- Selects **sidechain atoms only** (excluding hydrogens).
+- Selects **sidechain atoms only** (excluding hydrogens and protein backbone atoms).
 - Computes the **RMSF per atom**, then averages the values **per residue**.
 - It is optimized for **very low memory usage**, making it ideal for:
   - Large protein systems
