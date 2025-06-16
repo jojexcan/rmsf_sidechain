@@ -2,7 +2,7 @@
 
 This repository contains a memory-efficient Tcl script to calculate the **Root Mean Square Fluctuation (RMSF)** of **sidechain atoms** per residue, using trajectory files loaded into **VMD (Visual Molecular Dynamics)**.
 
-## Why Analyze Sidechain RMSF?
+## Why analyze sidechain RMSF?
 
 Analyzing the Root Mean Square Fluctuation (RMSF) of sidechain atoms provides valuable insights into the local flexibility and dynamic behavior of individual residues throughout a molecular dynamics simulation. Unlike backbone RMSF, sidechain fluctuations are often more sensitive to functional motions, conformational variability, and ligand interactions. This makes sidechain RMSF particularly useful for identifying flexible sidechain composition of loops, surface regions, or dynamic domains, and for probing the mobility of sidechain within active sites, binding pockets or molecular site recognition.
 
